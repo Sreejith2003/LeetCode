@@ -1,3 +1,3 @@
-    # for i in range(len(prices)-1):
-    #     if prices == sorted(prices, reverse=True):
-    #         return 0
+i = 1
+        # for i, c in enumerate(s):
+        #     if s[i] != s[i-1] and hash_map
